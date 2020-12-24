@@ -23,7 +23,7 @@ VGG-16 is a convolutional neural network architecture, it’s named VGG-16
 comes from the fact that it has 16 layers. Its layers consist of Convolutional
 layers, Max Pooling layers, Activation layers, Fully connected layers.
 
-
+![](images/archi.png)
 
 # Model Creation and Training
 The generated model can classify if a patient has COVID-19 or not based on the
