@@ -16,6 +16,14 @@ The image shown below is an example of a healthy individual.
 
 ![](images/HealthyIndividual.png)
 
+# System Architecture
+In the development of our model we used Convolutional Neural Network
+Architecture called VGG-16 using Keras, Tensorflow, and Deep Learning.
+VGG-16 is a convolutional neural network architecture, it’s named VGG-16
+comes from the fact that it has 16 layers. Its layers consist of Convolutional
+layers, Max Pooling layers, Activation layers, Fully connected layers.
+
+
 
 # Model Creation and Training
 The generated model can classify if a patient has COVID-19 or not based on the
