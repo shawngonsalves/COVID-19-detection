@@ -8,10 +8,14 @@ The dataset used in this project was the x-ray images of both healthy and COVID-
 done to the labels and the data was partitioned into using 80% for training
 and 20% for testing.
 
-The image shown below is an example of a patient with positive Covid-19
+The image shown below is an example of a patient with positive Covid-19.
+
 ![](images/posCovid-19.png)
+
 The image shown below is an example of a healthy individual.
+
 ![](images/HealthyIndividual.png)
+
 
 # Model Creation and Training
 The generated model can classify if a patient has COVID-19 or not based on the
