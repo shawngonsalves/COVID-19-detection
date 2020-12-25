@@ -14,7 +14,7 @@ The image shown below is an example of a patient with positive Covid-19.
 
 The image shown below is an example of a healthy individual.
 
-![](images/.png)
+![](images/HealthyIndividual.png)
 
 # System Architecture
 In the development of our model we used Convolutional Neural Network
