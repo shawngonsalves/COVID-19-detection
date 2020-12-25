@@ -39,15 +39,19 @@ the Batch size of 100 samples per training pass.
 # Use Cases
 The model can be used by Doctors to accelerate their process of detecting
 if a patient is suffering from COVID-19 or not.
+
 Radiologists and healthcare workers are at the risk of contracting the
 virus; this model can be used even without them and in turn preserving
 them.
+
 This would give physicians an edge and allow them to act with more
 confidence while they wait for the analysis of a radiologist by having a
 digital second opinion confirm their assessment of a patient's condition.
+
 Also, these tools can provide quantitative scores to consider and use in
 studies. Image data linked with clinically relevant attributes in a public
 dataset that is designed for ML will enable parallel development of these
 tools and rapid local validation of models.
+
 Furthermore, this data can be used for completely different tasks.
 
